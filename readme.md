@@ -1,4 +1,4 @@
-# Real-Time Character Counter [Link]()
+# Real-Time Character Counter [Link](https://abhilashtengli.github.io/12.HW/)
 
 This project consists of a simple web application that provides a real-time character counter for a textarea element. As the user types into the textarea, the counter updates to show the total number of characters entered and the remaining characters available within the specified limit.
 
